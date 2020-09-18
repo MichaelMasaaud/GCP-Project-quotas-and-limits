@@ -1,2 +1,2 @@
-# Project-quotas-and-Limits-on-GCP
+# GCP Project quotas and limits
 This is 
